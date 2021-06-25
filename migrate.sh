@@ -1,3 +1,3 @@
-NODE_ENV=development sequelize db:migrate:undo:all
-NODE_ENV=development sequelize db:migrate
-NODE_ENV=development sequelize db:seed:all
+sequelize db:migrate:undo:all
+sequelize db:migrate
+sequelize db:seed:all
