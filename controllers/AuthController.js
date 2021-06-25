@@ -28,7 +28,7 @@ class AuthController {
   static async LoginUser (req, res, next) {
     try {
       const { email, password, isAdmin } = req.body
-      
+        console.log('masok')
       if(!email || !password ) throw { message: "Please fill the form"}
 
       if(!isAdmin) {
