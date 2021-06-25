@@ -1,3 +1,22 @@
+```sh
+# LINK DEPLOY
+Client: https://neusistem-kyc.web.app/
+Server: https://sistem-kyc.herokuapp.com
+
+### Akun User
+- **Email: galang@mail.com**
+- **Password: galang123**
+
+### Akun Admin
+- **Email: admin@mail.com**
+- **Password: admin123**
+
+### Link SLDC Admin
+- **Mockup Figma: https://www.figma.com/file/OLZ1CrRrDsKoaZsK5twVgC/Prototype-KYC-aviana?node-id=0%3A1**
+- **Database Schma: https://docs.google.com/document/d/19uMtGYjWk-8JHnatjuTWb5x3HxlPsYGSQh5W1eqLotE/edit?usp=sharing**
+
+```
+---
 # API DOC sistem-kyc 
 
 # Auth
