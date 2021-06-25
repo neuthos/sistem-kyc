@@ -1,4 +1,3 @@
-```sh
 # LINK DEPLOY
 Client: https://neusistem-kyc.web.app/
 Server: https://sistem-kyc.herokuapp.com
@@ -15,7 +14,7 @@ Server: https://sistem-kyc.herokuapp.com
 - **Mockup Figma: https://www.figma.com/file/OLZ1CrRrDsKoaZsK5twVgC/Prototype-KYC-aviana?node-id=0%3A1**
 - **Database Schma: https://docs.google.com/document/d/19uMtGYjWk-8JHnatjuTWb5x3HxlPsYGSQh5W1eqLotE/edit?usp=sharing**
 
-```
+
 ---
 # API DOC sistem-kyc 
 
